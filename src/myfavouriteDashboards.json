@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "CCIB onboarding",
+    "category": "business, Global Banking, Products",
+    "shortDescription": "This is for CCIB",
+    "description": "This is for CCIB onboarding. The refresh frequency is monthly",
+    "snapshot" : "board1.png",
+    "snapshotlock" : "board1Lock.png",
+    "access": "Y",
+    "likes": "200",
+    "views": "300"
+  },
+  {
+    "id": "2",
+    "name": "KYC overdue",
+    "category": "business, Products, finance",
+    "shortDescription": "This is for KYC overdue",
+    "description": "This is for KYC overdue, the monthly refreshment is automatic",
+    "snapshot" : "board2.png",
+    "snapshotlock" : "board2Lock.png",
+    "access": "N",
+    "likes": "50",
+    "views": "100"
+  },
+  {
+    "id": "3",
+    "name": "Client Management",
+    "category": "business, Global Banking, Products, finance",
+    "shortDescription": "This is for client management",
+    "description": "Client Management",
+    "snapshot" : "board3.png",
+    "snapshotlock" : "board3Lock.png",
+    "access": "Y",
+    "likes": "510",
+    "views": "610"
+  }
+  ]

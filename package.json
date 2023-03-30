@@ -1,0 +1,50 @@
+{
+  "name": "landing-page-white-background",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.2",
+    "classnames": "^2.2.6",
+    "lodash": "^4.17.15",
+    "react": "^16.13.1",
+    "react-bootstrap": "^2.6.0",
+    "react-bootstrap-icons": "^1.10.2",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
+    "react-dom": "^16.13.1",
+    "react-drag-reorder": "^1.2.0",
+    "react-ga": "^2.7.0",
+    "react-pro-sidebar": "^0.7.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.4.1",
+    "react-search-autocomplete": "^8.2.1",
+    "sass": "^1.49.7",
+    "styled-icons": "8.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cruip/open-react-template.git"
+  },
+  "scripts": {
+    "start": "SET NODE_OPTIONS=--openssl-legacy-provider && set PORT=3005 && react-scripts start",
+    "build": "SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

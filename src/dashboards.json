@@ -1,0 +1,107 @@
+
+  [
+    {
+      "id": "1",
+      "name": "CCIB onboarding",
+      "category": "business, Global Banking, Products",
+      "description": "This is for CCIB onboarding",
+      "snapshot" : "board1.png",
+      "snapshotlock" : "board1Lock.png",
+      "favourite": "Y",
+      "access": "N",
+      "likes": "20",
+      "views": "30"
+    },
+    {
+       "id": "2",
+      "name": "KYC overdue dashboard",
+      "category": "business, Products, finance",
+      "description": "This is for KYC overdue",
+      "snapshot" : "board2.png",
+      "snapshotlock" : "board2Lock.png",
+      "favourite": "N",
+      "access": "Y",
+      "likes": "50",
+      "views": "100"
+    },
+    {
+      "id": "3",
+      "name": "Client Management dashboard",
+      "category": "business, Global Banking, Products, finance",
+      "description": "Client Management",
+      "snapshot" : "board3.png",
+      "snapshotlock" : "board3Lock.png",
+      "favourite": "Y",
+      "access": "Y",
+      "likes": "510",
+      "views": "610"
+    },
+    {
+      "id": "4",
+      "name": "Global KYC overdue",
+      "category": "finance, Global Banking, Client Lists, investors",
+      "description": "Global KYC overdue",
+      "access": "Y",
+      "snapshot" : "board4.png",
+      "snapshotlock" : "board4Lock.png",
+      "likes": "25",
+      "views": "30"
+    },
+    {
+      "id": "5",
+      "name": "Client Onboarding dashboard",
+      "category": "finance, investors, Global Banking, Client Lists, Products",
+      "description": "Client Onboarding",
+      "snapshot" : "board5.png",
+      "snapshotlock" : "board5Lock.png",
+      "access": "Y",
+      "likes": "35",
+      "views": "50"
+    },
+    {
+      "id": "6",
+      "name": "Client Management Insights",
+      "category": "finance, investors, Client Lists",
+      "description": "Client Management Insights",
+      "snapshot" : "board2.png",
+      "snapshotlock" : "board2Lock.png",
+      "access": "Y",
+      "likes": "20",
+      "views": "30"
+    },
+    {
+      "id": "7",
+      "name": "FI Client Coverage",
+      "category": "business, Products, finance",
+      "description": "FM KYC overdue 2",
+      "snapshot" : "board3.png",
+      "snapshotlock" : "board3Lock.png",
+      "access": "Y",
+      "likes": "25",
+      "views": "60"
+    }
+    ,
+    {
+      "id": "8",
+      "name": "CM MVP Dashboard",
+      "category": "finance, Client Lists",
+      "description": "CM MVP Dashboard",
+      "snapshot" : "board2.png",
+      "snapshotlock" : "board2Lock.png",
+      "access": "N",
+      "likes": "25",
+      "views": "60"
+    },
+
+    {
+      "id": "8",
+      "name": "eOps Accuont Opening",
+      "category": "business, Products, finance",
+      "description": "CM MVP Dashboard",
+      "snapshot" : "board1.png",
+      "snapshotlock" : "board1Lock.png",
+      "access": "N",
+      "likes": "25",
+      "views": "60"
+    }
+  ]
