@@ -45,6 +45,19 @@
 		}
 	}
 
+
+	.tiles-item-new {
+    		flex-basis: $testimonial-item--width-new;
+    		max-width: $testimonial-item--width-new;
+    		@if ( $testimonial-items--padding__mobile != null ) {
+    			padding: $testimonial-items--padding__mobile * 0.5;
+    		}
+    		box-sizing: content-box;
+            padding: 15px;
+            margin-top: 40px;
+
+    	}
+
 	.tiles-item-inner {
 		padding-top: $testimonial-item--inner-padding-v;
 		padding-bottom: $testimonial-item--inner-padding-v;
